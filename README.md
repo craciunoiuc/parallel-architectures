@@ -27,3 +27,7 @@ needed.
 * Mihai Gheoace
 * Cezar Craciunoiu
 * Adrian Stefan
+
+Special thanks to:
+ * https://github.com/lvandeve/lodepng
+ 
